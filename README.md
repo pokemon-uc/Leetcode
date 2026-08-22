@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/pokemon-uc/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/pokemon-uc/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pokemon-uc/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pokemon-uc/Leetcode/tree/master/0342-power-of-four) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pokemon-uc/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pokemon-uc/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pokemon-uc/Leetcode/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/pokemon-uc/Leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
