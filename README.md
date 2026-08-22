@@ -22,5 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pokemon-uc/Leetcode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pokemon-uc/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pokemon-uc/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pokemon-uc/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
