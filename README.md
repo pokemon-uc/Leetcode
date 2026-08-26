@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pokemon-uc/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/pokemon-uc/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pokemon-uc/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/pokemon-uc/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pokemon-uc/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pokemon-uc/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pokemon-uc/Leetcode/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pokemon-uc/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/pokemon-uc/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/pokemon-uc/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/pokemon-uc/Leetcode/tree/master/0231-power-of-two) |
