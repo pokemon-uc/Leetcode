@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pokemon-uc/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pokemon-uc/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pokemon-uc/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/pokemon-uc/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/pokemon-uc/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0383-ransom-note](https://github.com/pokemon-uc/Leetcode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pokemon-uc/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/pokemon-uc/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
