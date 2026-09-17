@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/pokemon-uc/Leetcode/tree/master/0383-ransom-note) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/pokemon-uc/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
